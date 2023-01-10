@@ -1,0 +1,29 @@
+.box 
+{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    box-sizing: border-box;
+    border: 5px solid tomato;
+}
+
+.bg-1
+{
+    width: 100px;
+    padding-left: 100px;
+    background: red;
+}
+
+.bg-2
+{
+    width: 100px;
+    padding-left: 200px;
+    background: red;
+}
+
+.bg-3
+{
+    width: 100px;
+    padding-left: 300px;
+    background: red;
+}
